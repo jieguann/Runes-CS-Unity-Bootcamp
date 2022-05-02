@@ -1,18 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using MusicalRunes;
 
-public class PowerUpConfig : MonoBehaviour
+[CreateAssetMenu(fileName = "new PowerUp Config", menuName = "Configs/Power Up")]
+public class PowerUpConfig: ScriptableObject
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public PowerUpType powerUpType;
+    public string m_powerUpNames;
+    [TextArea] public string m_description;
 }
+
