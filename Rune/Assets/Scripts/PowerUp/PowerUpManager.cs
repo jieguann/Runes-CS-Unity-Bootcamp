@@ -9,7 +9,7 @@ namespace MusicalRunes
     {
         hint, replay
     }
-
+    /*
     public class PowerUpManager : MonoBehaviour
     {
         [SerializeField] PowerUpType pType;
@@ -26,5 +26,5 @@ namespace MusicalRunes
             }
         }
     }
-
+    */
 }

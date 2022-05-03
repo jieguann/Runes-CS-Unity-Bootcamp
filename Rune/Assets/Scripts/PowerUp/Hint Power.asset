@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e2952d5d7e6c61d42be08eec3fa575b9, type: 3}
-  m_Name: Hint
+  m_Name: Hint Power
   m_EditorClassIdentifier: 
   powerUpType: 0
-  m_powerUpNames: 
-  m_description: 
+  m_powerUpNames: Hello
+  m_description: 'Shows us what the next rune to select is!
+
+'

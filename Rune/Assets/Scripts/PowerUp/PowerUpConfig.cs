@@ -10,5 +10,9 @@ public class PowerUpConfig: ScriptableObject
     public PowerUpType powerUpType;
     public string m_powerUpNames;
     [TextArea] public string m_description;
+
+    public bool m_Upgradeable;
+
+
 }
 
