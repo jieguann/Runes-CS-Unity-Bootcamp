@@ -17,3 +17,4 @@ MonoBehaviour:
   m_description: 'Shows us what the next rune to select is!
 
 '
+  m_Upgradeable: 0

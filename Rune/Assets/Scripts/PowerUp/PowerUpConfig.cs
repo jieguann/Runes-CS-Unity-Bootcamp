@@ -4,7 +4,7 @@ using UnityEngine;
 using MusicalRunes;
 [System.Serializable]
 [CreateAssetMenu(fileName = "new PowerUp Config", menuName = "Configs/Power Up")]
-//[SerializeField]
+
 public class PowerUpConfig: ScriptableObject
 {
     public PowerUpType powerUpType;
