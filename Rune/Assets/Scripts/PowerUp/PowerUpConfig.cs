@@ -13,6 +13,9 @@ public class PowerUpConfig: ScriptableObject
 
     public bool m_Upgradeable;
 
-
+    //public string m_powerUpNameID;
+    //public string m_descriptionID;
+    //public string m_powerUpNames => Localization.s_currenLocalizationTable[m_powerUpNameID];
+    //public string m_description => Localization.s_currenLocalizationTable[m_descriptionID];
 }
 

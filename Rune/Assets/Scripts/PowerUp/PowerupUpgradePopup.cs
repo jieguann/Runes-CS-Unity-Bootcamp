@@ -16,6 +16,8 @@ public class PowerupUpgradePopup : MonoBehaviour
     private void Start()
     {
         Setup(m_powerUp);
+        //Localization.Jason = 3;
+
     }
     public void Setup(PowerUpConfig powerupConfig)
     {

@@ -14,7 +14,7 @@ public class Linging : MonoBehaviour
 
     private void Update()
     {
-        Debug.Log(m_available);
+        //Debug.Log(m_available);
     }
 
 

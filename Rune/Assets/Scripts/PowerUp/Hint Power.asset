@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: Hint Power
   m_EditorClassIdentifier: 
   powerUpType: 0
-  m_powerUpNames: Hello
-  m_description: 'Shows us what the next rune to select is!
-
-'
+  m_powerUpNames: HintName
+  m_description: 
   m_Upgradeable: 0
